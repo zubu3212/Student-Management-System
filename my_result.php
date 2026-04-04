@@ -25,7 +25,7 @@ $result_data = mysqli_query($conn, $query);
 <body>
 
     <header class="header">
-        <a href="student_home.php">Student Dashboard</a>
+        <a href="studenthome.php">Student Dashboard</a>
         <div class="logout">
             <a href="logout.php" class="btn btn-primary">Logout</a>
         </div>

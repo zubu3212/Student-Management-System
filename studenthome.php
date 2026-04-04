@@ -24,8 +24,8 @@ elseif($_SESSION['usertype'] == 'admin') {
 <body>
 
     <header class="header">
-        <a href="student_home.php">Student Dashboard</a>
-        <div class="logout">
+        <a href="studentshome.php">Student Dashboard</a>
+<div class="logout">
             <a href="logout.php" class="btn btn-primary">Logout</a>
         </div>
     </header>
@@ -33,7 +33,7 @@ elseif($_SESSION['usertype'] == 'admin') {
     <aside>
         <ul>
           <li>
-    <a href="my_courses.php">My Courses</a>
+    <a href="my_courses.php">My Courses.</a>
  </li>
             <li>
                 <a href="my_result.php">My Result</a>

@@ -31,7 +31,7 @@ $result = mysqli_query($data, $sql);
 <body>
 
     <header class="header">
-        <a href="student_home.php">Student Dashboard</a>
+        <a href="studenthome.php">Student Dashboard</a>
         <div class="logout">
             <a href="logout.php" class="btn btn-primary">Logout</a>
         </div>
@@ -41,7 +41,7 @@ $result = mysqli_query($data, $sql);
         <ul>
            
             <li><a href="my_courses.php">My Courses</a></li>
-            <li><a href="">My Result</a></li>
+            <li><a href="my_result.php">My Result</a></li>
         </ul>
     </aside>
 

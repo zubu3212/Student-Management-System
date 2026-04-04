@@ -17,7 +17,7 @@
 <body>
 
 	<nav>
-		<label class="logo">Pokie - IT School</label>
+		<label class="logo">EasyLearn Hub</label>
 
 		<ul>
 			<li><a href="">Home</a></li>
@@ -47,16 +47,19 @@
 
 			<div class="col-md-8">
 
-				<h1>Welcome to pokie- IT School</h1>
+				<h1>Welcome to EasyLearn Hub</h1>
 
-				<p>Pokie IT School is committed to developing skilled professionals through modern and practical IT education. Our goal is to prepare students for today’s digital world by providing career-focused and industry-relevant training.
+				<p>EasyLearn Hub is committed to developing skilled professionals through modern and practical IT education. Its goal is to prepare students for today’s digital world by providing career-focused and industry-relevant training.
 
-Since its establishment, Pokie IT School has been offering hands-on courses in Web Development, Graphic Design, and Digital Marketing, where students learn through real-world projects and practical experience.</p>
+Since its establishment, EasyLearn Hub has been offering hands-on courses in Web Development, Graphic Design, and Digital Marketing. Students learn through real-world projects, practical assignments, and industry-based experience.
 
+The mission of EasyLearn Hub is to create a modern, technology-driven, and supportive learning environment where skill development, creative thinking, and practical knowledge are given top priority.
+
+At EasyLearn Hub, students not only gain theoretical knowledge but also develop real working experience, freelancing readiness, problem-solving abilities, and the confidence needed for a successful future career.</p>
 <p> mission is to create a modern, technology-driven, and supportive learning environment—
 where skill development, creative thinking, and practical knowledge are given top priority.</p>
 
-At Pokie IT School, students do not only gain theoretical knowledge, but also build real working experience, freelancing readiness, and the confidence needed for a successful future career.</p>
+At EasyLearn Hub, students do not only gain theoretical knowledge, but also build real working experience, freelancing readiness, and the confidence needed for a successful future career.</p>
 				
 			</div>
 			
