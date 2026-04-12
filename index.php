@@ -33,40 +33,35 @@
         <img class="main_img" src="class.jpg" alt="Classroom">
     </div>
 
-    <div class="container">
-        <div class="row">
+   <div class="container about">
+    <div class="row">
 
-            <div class="col-md-4">
-                <img class="welcome_img" src="playground.jpg" alt="Campus Playground">
-            </div>
-
-            <div class="col-md-8">
-                <h1>Welcome to EasyLearn Hub</h1>
-
-                <p>
-                    EasyLearn Hub is committed to developing skilled professionals through modern and practical IT education.
-                    Its goal is to prepare students for today’s digital world by providing career-focused and industry-relevant training.
-                </p>
-
-                <p>
-                    Since its establishment, EasyLearn Hub has been offering hands-on courses in Web Development,
-                    Graphic Design, and Digital Marketing. Students learn through real-world projects, practical assignments,
-                    and industry-based experience.
-                </p>
-
-                <p>
-                    The mission of EasyLearn Hub is to create a modern, technology-driven, and supportive learning environment
-                    where skill development, creative thinking, and practical knowledge are given top priority.
-                </p>
-
-                <p>
-                    At EasyLearn Hub, students not only gain theoretical knowledge but also develop real working experience,
-                    freelancing readiness, problem-solving abilities, and the confidence needed for a successful future career.
-                </p>
-            </div>
-
+        <div class="col-md-4">
+            <img class="welcome_img img-responsive" src="playground.jpg">
         </div>
+
+        <div class="col-md-8">
+            <h1>Welcome to EasyLearn Hub</h1>
+
+            <p>
+                EasyLearn Hub is committed to developing skilled professionals through modern and practical IT education.
+            </p>
+
+            <p>
+                We provide Web Development, Graphic Design, and Digital Marketing courses.
+            </p>
+
+            <p>
+                Students learn through real-world projects and gain freelancing skills.
+            </p>
+
+            <p>
+                Our mission is to build a modern, technology-driven learning environment.
+            </p>
+        </div>
+
     </div>
+</div>
 
     <center>
         <h1>Our Teachers</h1>
@@ -150,7 +145,7 @@
         </div>
 
         <div class="adm_int">
-            <input class="btn btn-primary" type="submit" value="Apply Now">
+            <input name="apply" class="btn btn-primary" type="submit" value="Apply Now">
         </div>
 
     </form>
